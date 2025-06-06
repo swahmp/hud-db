@@ -1,0 +1,36 @@
+{
+  "name": "sludgeHUD",
+  "author": "Swamp",
+  "contributors": [
+    "Swamp",
+    "Mokila"
+  ],
+  "releaseDate": "2025-06-05",
+  "distinguishedFromParent": false,
+  "resources": [
+    "sludgehudBANNER"
+  ],
+  "tags": [
+    "minimal",
+    "green"
+  ],
+  "repo": "https://github.com/swahmp/sludgeHUD/",
+  "hash": "90f5150884963987b199b8fdcb2c143199526449",
+  "prerelease": false,
+  "social": {
+    "twitter": "swahmp",
+    "album": "https://imgur.com/a/OKrIDd0"
+  },
+  "traits": {
+    "res": [
+      "4/3",
+      "16/9",
+      "16/10",
+      "1/1",
+      "5/4"
+    ],
+    "position": [
+      "center"
+    ]
+  }
+}
